@@ -4,7 +4,6 @@
 
 Binds a keystroke to a user defined function
 
-
 sub moveLeft
    if (block.x > 0) then
      moveBlock -1, 0
